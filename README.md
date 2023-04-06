@@ -3,7 +3,8 @@
 - ### [Mac OS](https://github.com/tushar8133/windows/blob/master/macos.md)
 - ### [Android](https://github.com/tushar8133/windows/blob/master/android.md)
 - ### [Arduino](https://github.com/tushar8133/windows/blob/master/arduino.md)
-- ### [learn](https://github.com/tushar8133/learn)
+- ### [2FA](https://raw.githack.com/tushar8133/OTP/main/otp.html)
+- ### [My Learnings (Private)](https://github.com/tushar8133/learn)
 <!--
 ### Hi there 👋
 **tushar8133/tushar8133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
