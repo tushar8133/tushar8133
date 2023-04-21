@@ -3,7 +3,7 @@
 - ### [Mac OS](https://github.com/tushar8133/windows/blob/master/macos.md)
 - ### [Android](https://github.com/tushar8133/windows/blob/master/android.md)
 - ### [Arduino](https://github.com/tushar8133/windows/blob/master/arduino.md)
-- ### [2FA](https://raw.githack.com/tushar8133/OTP/main/otp.html)
+- ### [My OTP](https://raw.githack.com/tushar8133/myotp/main/index.html)
 - ### [My Learnings (Private)](https://github.com/tushar8133/learn)
 <!--
 ### Hi there 👋
