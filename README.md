@@ -1,9 +1,9 @@
 - ### [Windows](https://github.com/tushar8133/windows), [Batch](https://github.com/tushar8133/windows/blob/master/batch.md)
 - ### [Linux](https://github.com/tushar8133/windows/blob/master/linux.md)
 - ### [Mac OS](https://github.com/tushar8133/windows/blob/master/macos.md)
-- ### [Android](https://github.com/tushar8133/windows/blob/master/android.md)
+- ### [Android](https://github.com/tushar8133/main-android/blob/main/samsung-m21/readme.md)
 - ### [Arduino](https://github.com/tushar8133/windows/blob/master/arduino.md)
-- ### [My OTP](https://raw.githack.com/tushar8133/myotp/main/index.html) [(alternate link)](https://rawcdn.githack.com/tushar8133/myotp/33c2fa825d6767a74480acc484871864467d04e7/index.html)
+- ### [My OTP](https://raw.githack.com/tushar8133/myotp/main/index.html)
 - ### [My Learnings (Private)](https://github.com/tushar8133/learn)
 <!--
 ### Hi there 👋
