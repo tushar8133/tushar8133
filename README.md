@@ -8,7 +8,8 @@
   - [General](https://github.com/tushar8133/main-linux/blob/main/readme.md)
   - [Distro](https://github.com/tushar8133/main-linux/blob/main/distro.md)
   - [Arch Linux](https://github.com/tushar8133/main-linux/blob/main/archlinux.md)
-- ### [Mac OS](https://github.com/tushar8133/windows/blob/master/macos.md)
+- ### MacOS
+  - [General](https://github.com/tushar8133/main-macos/blob/main/readme.md)
 - ### Android
   - [General](https://github.com/tushar8133/main-android/blob/main/readme.md)
   - [SM-M21F](https://github.com/tushar8133/main-android/blob/main/samsung-m21/readme.md)
