@@ -1,4 +1,6 @@
-- ### [Windows](https://github.com/tushar8133/windows), [Batch](https://github.com/tushar8133/windows/blob/master/batch.md)
+- ### Windows
+  - [General](https://github.com/tushar8133/windows)
+  - [Batch](https://github.com/tushar8133/windows/blob/master/batch.md)
 - ### Linux
   - [General](https://github.com/tushar8133/main-linux/blob/main/readme.md)
   - [Distro](https://github.com/tushar8133/main-linux/blob/main/distro.md)
