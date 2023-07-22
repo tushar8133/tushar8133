@@ -1,6 +1,9 @@
+# Menu
 - ### Windows
   - [General](https://github.com/tushar8133/windows)
+  - [Shell](https://github.com/tushar8133/windows/blob/master/shell-guid.md)
   - [Batch](https://github.com/tushar8133/windows/blob/master/batch.md)
+  - [SS64 Run Commands](https://ss64.com/nt/shell.html)
 - ### Linux
   - [General](https://github.com/tushar8133/main-linux/blob/main/readme.md)
   - [Distro](https://github.com/tushar8133/main-linux/blob/main/distro.md)
