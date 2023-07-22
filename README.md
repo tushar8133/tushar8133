@@ -4,7 +4,9 @@
   - [Distro](https://github.com/tushar8133/main-linux/blob/main/distro.md)
   - [Arch Linux](https://github.com/tushar8133/main-linux/blob/main/archlinux.md)
 - ### [Mac OS](https://github.com/tushar8133/windows/blob/master/macos.md)
-- ### [Android](https://github.com/tushar8133/main-android/blob/main/samsung-m21/readme.md)
+- ### Android
+  - [General](https://github.com/tushar8133/main-android/blob/main/readme.md)
+  - [SM-M21F](https://github.com/tushar8133/main-android/blob/main/samsung-m21/readme.md)
 - ### [Arduino](https://github.com/tushar8133/windows/blob/master/arduino.md)
 - ### [My OTP](https://raw.githack.com/tushar8133/myotp/main/index.html)
 - ### [My Learnings (Private)](https://github.com/tushar8133/learn)
