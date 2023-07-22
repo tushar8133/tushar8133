@@ -1,4 +1,6 @@
 # Menu
+- ### Architecture
+  - [Info](https://github.com/tushar8133/main-architecture/tree/main)
 - ### Windows
   - [General](https://github.com/tushar8133/windows)
   - [Shell](https://github.com/tushar8133/windows/blob/master/shell-guid.md)
@@ -9,7 +11,7 @@
   - [Distro](https://github.com/tushar8133/main-linux/blob/main/distro.md)
   - [Arch Linux](https://github.com/tushar8133/main-linux/blob/main/archlinux.md)
 - ### MacOS
-  - [General](https://github.com/tushar8133/main-macos/blob/main/readme.md)
+  - [Info](https://github.com/tushar8133/main-macos/blob/main/readme.md)
 - ### Android
   - [General](https://github.com/tushar8133/main-android/blob/main/readme.md)
   - [SM-M21F](https://github.com/tushar8133/main-android/blob/main/samsung-m21/readme.md)
