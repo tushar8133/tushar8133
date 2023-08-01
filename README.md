@@ -16,7 +16,9 @@
   - [General](https://github.com/tushar8133/main-android/blob/main/readme.md)
   - [SM-M21F](https://github.com/tushar8133/main-android/blob/main/samsung-m21/readme.md)
 - ### [Arduino](https://github.com/tushar8133/windows/blob/master/arduino.md)
-- ### [My OTP](https://raw.githack.com/tushar8133/myotp/main/index.html)
+- ### MFA
+  - [TOTP](https://raw.githack.com/tushar8133/mfa/main/index.html)
+  - [Prod URL](https://rawcdn.githack.com/tushar8133/mfa/07b89b53d98c733af0e93cd1882f82575c3130e5/index.html)
 - ### [My Learnings (Private)](https://github.com/tushar8133/learn)
 <!--
 ### Hi there 👋
